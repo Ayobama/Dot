@@ -1,2 +1,2 @@
 # projectOne
- Create a program that scraps websites for the linktrees
+ A program that scraps websites for the linktrees
